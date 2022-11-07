@@ -3,6 +3,7 @@
 #include <conio.h>
 #include <string.h>
 
+sleep(1);
 int fibonacci(int number);
 int input_bilangan;
 
